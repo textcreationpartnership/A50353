@@ -1,0 +1,647 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The publisher or translator of Nicholas Machiavels whole works out of Italian, faithfully into English, concerning the following letter of Nicholas Machiavels, wherein he clears himself of the aspersions alledg'd by some on his writings also, his judgment as to government, whether monarchie or democracie be the best : and lastly, (tho' a papist) shews their wicked and base errours, both of popes, Jesuits, priests, &amp;c. and that they shall be brought to ruine / written by the author, April 1st, 1537.</title>
+            <author>Neville, Henry, 1620-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50353</idno>
+            <idno type="STC">Wing M139</idno>
+            <idno type="STC">ESTC R23469</idno>
+            <idno type="EEBO-CITATION">12764710</idno>
+            <idno type="OCLC">ocm 12764710</idno>
+            <idno type="VID">93558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 361:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The publisher or translator of Nicholas Machiavels whole works out of Italian, faithfully into English, concerning the following letter of Nicholas Machiavels, wherein he clears himself of the aspersions alledg'd by some on his writings also, his judgment as to government, whether monarchie or democracie be the best : and lastly, (tho' a papist) shews their wicked and base errours, both of popes, Jesuits, priests, &amp;c. and that they shall be brought to ruine / written by the author, April 1st, 1537.</title>
+                  <author>Neville, Henry, 1620-1694.</author>
+                  <author>Machiavelli, Niccolò, 1469-1527.</author>
+               </titleStmt>
+               <extent>[8], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Taken from Neville's translation of Machiavelli's Works (1675) and subsequently published as A true copy of a letter written by N. Machiaviel. "The letter is supposititious, it was probably written by Henry Nevile"--BM.</note>
+                  <note>Place of publicaton from NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93558:1" rendition="simple:additions"/>
+            <pb facs="tcp:93558:1" rendition="simple:additions"/>
+            <p>THE PUBLISHER Or Tranſlator of NICHOLAS MACHIAVELS Whole WORKS OUT OF ITALIAN, faithfully into ENGLISH;</p>
+            <p>Concerning the following Letter of <hi>Nicholas Ma<g ref="char:EOLhyphen"/>chiavels,</hi> wherein he clears himſelf of the Aſ<g ref="char:EOLhyphen"/>perſions alledg'd by ſome on his Writings: Alſo, his Judgment as to <hi>Government,</hi> whether <hi>Monarchie</hi> or <hi>Democracie</hi> be the beſt. And Laſtly, (tho' a <hi>Papiſt</hi>) ſhews their wicked and baſe Errours, both of <hi>Popes, Jeſuits, Prieſts, &amp;c.</hi> and that they ſhall be brought to ruine.</p>
+            <p>
+               <hi>Written by the Author</hi> April 1ſt. 1537.</p>
+            <p>Printed in the Year 1688.</p>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:93558:2"/>
+            <pb facs="tcp:93558:2"/>
+            <head>THE PUBLISHER Or Tranſlator of <hi>Nicholas Machiavels</hi> whole works out of <hi>Italian,</hi> faithfully into <hi>Engliſh;</hi> To the READER, Concerning the following Letter of <hi>Nicholas Ma<g ref="char:EOLhyphen"/>chiavels</hi> in Vindication of Himſelf, and the Aſperſions put by ſome on his Writings.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>IT hath been uſual with moſt of thoſe who have Tran<g ref="char:EOLhyphen"/>ſlated this Author into any Language, to ſpend much of their Time and Paper in Taxing his Impieties, and confuting his errours and falſe principles as they are pleaſed to call them, if upon peruſal of his Writings I had found him guilty of any thing that could deceive the Simple, or prejudice the reſt of Mankind, I ſhould not have put thee to the hazard of reading him in thine own Language; but rather have ſuffered him ſtill to ſleep in the obſcurity of his own, than endanger the World; but being very well aſſured of the contrary, and that the Age will rather receive advantage than damage by this pub<g ref="char:EOLhyphen"/>lication, I did yet think that it was fit to ſay ſomething <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Preface, to vindicate our Author from thoſe Slan<g ref="char:EOLhyphen"/>ders which Prieſts and other byaſs'd Pens have laid up<g ref="char:EOLhyphen"/>on him; but ſtill I thought, that it might prove a bold
+<pb facs="tcp:93558:3"/>and preſumptuous undertaking, and might excite laugh<g ref="char:EOLhyphen"/>ter, for a perſon of my ſmall Parts and Abilities, to A<g ref="char:EOLhyphen"/>pologize for one of the greateſt Wits and profoundeſt Judgements that ever lived amongſt the Moderns: In this perplexity, I had the good fortune to meet with this Letter of his own writing; which hath delivered not from thoſe ſcruples, and furniſhed me with an opportuni<g ref="char:EOLhyphen"/>ty of juſtifying this great Perſon by his own Pen. Re<g ref="char:EOLhyphen"/>ceive then this choice Piece with benignity, it hath ne<g ref="char:EOLhyphen"/>ver before been publiſhed in any Language, but lurked for above <hi>80.</hi> years in the private Cabinets of his own Kindred, and the Deſcendants of his own admirers in <hi>Florence,</hi> till in the beginning of the <hi>Pontificat</hi> of <hi>Urbane</hi> the 8th, it was procured by the Jeſuits and o<g ref="char:EOLhyphen"/>ther buſie bodies, and brought to <hi>Rome</hi> with an inten<g ref="char:EOLhyphen"/>tion to divert that wiſe <hi>Pope</hi> from his deſign of making one of <hi>Nicholas Machiavels</hi> Name and Family <hi>Car<g ref="char:EOLhyphen"/>dinal,</hi> as (notwithſtanding all their oppoſition) he did, not long after. When it was gotten into that City, it wanted not thoſe who had the judgement and curioſity to copy it, and ſo at length came to enjoy that priviledge which all rare pieces (even the ſharpeſt Lybels and Paſ<g ref="char:EOLhyphen"/>quils) challenge in that Court, which is to be ſold to Strangers, one of which being a Gentleman of this Coun<g ref="char:EOLhyphen"/>trey brought it over with him at his return from thence in the year <hi>1645,</hi> and having tranſlated it into <hi>Engliſh,</hi> did communicate it to diverſe of his Friends, and by means of ſome of them, it hath been my good fortune to be capable of making thee a preſent of it, and let it ſerve as an Apology for our Author and his Writings, if thou
+<pb facs="tcp:93558:3"/>thinkeſt be need any. I muſt confeſs I believe his works require little, but rather praiſe and admiration; yet I wiſh I could as well juſtifie one undertaking of his not long after the writing of this Letter; for we find in the Story of thoſe times, that in the Month of <hi>Auguſt</hi> fol<g ref="char:EOLhyphen"/>lowing, in the ſame year <hi>1537.</hi> this <hi>Nicolo Machi<g ref="char:EOLhyphen"/>avelli</hi> (except there were another of his name) was com<g ref="char:EOLhyphen"/>mitted priſoner to the <hi>Bargello,</hi> amongſt thoſe who were taken in Arms againſt <hi>Coſimo</hi> at the Caſtle of <hi>Monte<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rurli,</hi> notwithſtanding all his complements in this Let<g ref="char:EOLhyphen"/>ter to that Prince, and profeſſed obligations to him; if this be ſo, we muſt impute it to his too great zeal, to con<g ref="char:EOLhyphen"/>cur with thedeſires of the univerſality at that time, in reſtoring the Liberty of their Countrey, which hath ſo far dazel'd the judgements even of great and wiſe Men, that thou ſeeſt many grave Authors amongſt the Ancients have even commended and deifyed the ingratitude and treach<g ref="char:EOLhyphen"/>ery of <hi>Brutus</hi> and <hi>Caſſius.</hi> But certainly this crime of his would have been much more unpardonable, if he had liv<g ref="char:EOLhyphen"/>ed to ſee his own Propheſie fulfilled in the Perſons and Deſcendants of this great <hi>Coſimo,</hi> for there was never any ſucceſsion of Princes ſince the World began, in which all the Royal Virtues and Qualities neceſſary to thoſe who rule over Men, were more eminently perſpicuous than in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very individual of this line; ſo that thoſe people have as little cauſe as ever any had to lament the change of their Government; their great <hi>Dukes</hi> having been truly Fathers of their Country, and treated their Subjects like Children, though their power be above all limitati<g ref="char:EOLhyphen"/>on, above all ſundamental Laws; but they having no
+<pb facs="tcp:93558:4"/>Law, are a Law to themſelves. I cannot chuſe but in<g ref="char:EOLhyphen"/>ſtance in ſome few of their Benefits to their people, firſt the making the River <hi>Arno</hi> Navigable from <hi>Piſa</hi> to <hi>Florence</hi> in a year of Dearth, that ſo the poor might be ſet on work and have Bread, and the Traffick or both Cities infinitely facilitated, their making at their own charge a <hi>Canal</hi> from <hi>Livorne</hi> to <hi>Piſa,</hi> their erecting at <hi>Piſa</hi> a famous <g ref="char:V">Ʋ</g>niverſity; paying the Pro<g ref="char:EOLhyphen"/>feſsors who are eminent for Learning, and diſcharging all other incidencies out of their own Revenue, beſides the raiſing ſtately Buildings for Schools and Libraries, their founding a renowned Order of <hi>Knighthood,</hi> and keeping the Chapter in the ſame City; and ordering a conſiderable number of Knights conſtantly to reſide there, both which intended and performed by them, to encreaſe the concourſe, and reſtore the wealth to the once opulent Inhabitants of that place. Their new Building, fortify<g ref="char:EOLhyphen"/>ing and enfranchizing <hi>Livorne,</hi> that even by the a<g ref="char:EOLhyphen"/>boliſhing their own Cuſtoms they might enrich their Subjects, and make that Port (as it now is) the Maga<g ref="char:EOLhyphen"/>zine of all the <hi>Levant</hi> Trade. And laſtly, Their not having in <hi>140</hi> years ever levyed any new Tax upon their people, excepting in the year <hi>1642.</hi> to defend the Li<g ref="char:EOLhyphen"/>berties of <hi>Italy</hi> againſt the <hi>Barbarians.</hi> Theſe things would merit a Panegyrick if either my parts, or this ſhort Advertiſement would admit it, I ſhall conclude then after I have born a juſt and dutiful teſtimony to the merits of the Prince who now governs that State, in whom (if all the Princely virtues and endowments ſhould be loſt) they might be found and reſtored again
+<pb facs="tcp:93558:4"/>to the world: As ſome ingenious Artiſts in the laſt Age, retrieved the Art of Sculpture by certain <hi>has re<g ref="char:EOLhyphen"/>lievos</hi> remaining on ſome Pillars and Walls at <hi>Rome;</hi> The Prudence, Magnanimity, Charity, Liberality, and above all the humanity, courteſie, and affability of the Prince, though they exceed my expreſſions, yet they are ſufficiently known, not only to his Subjects (the conſtant objects of his care and goodneſs) but even to all Stran<g ref="char:EOLhyphen"/>gers, more particularly to our Nation, he having un<g ref="char:EOLhyphen"/>dertaken a troubleſome Journey to viſit this Kingdom, and to make it witneſs and partaker of his tranſcendent generoſity and bounty, which he hath continued ever ſince, as can be teſtified by all who have had the honour to wait upon him in his own Country, or the good fortune but to ſee him in ours. I my ſelf who have been ſo happy to be admitted into his preſence, and have been honoured ſince in having his Highneſs my cuſtomer for many choice Books to encreaſe (not his knowledge, for that is beyond receiving any addition by Books) but his curieſity and his Library, do think my ſelf bound in Du<g ref="char:EOLhyphen"/>ty to take this poor opportunity of teſtifying my gratitude and devotion to this excelient Prince. As to this Letter I have nothing more to ſay, but that thou mayeſt ſee how right this Author was ſet in Principles of Religi<g ref="char:EOLhyphen"/>on, before he could have the information, which we have had ſince from the Pens of moſt Learned and Rational Controverſiſts in thoſe points, and wherefore thou mayſt admire the ſagacity of his
+<pb facs="tcp:93558:5"/>Judgement. Read him then, and ſerve GOD thy King, and thy Country, with the Knowledge will teach thee. <hi>Farewel.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93558:5"/>
+            <head>NICHOLAS MACHIAVELS Letter to ZANOBIUS BUONDELMONTIUS, <hi>In Vindication of himſelf and his Writings.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Diſcourſe we had lately (dear <hi>Zeno. bio</hi>) in the delightful Gardens of our old deceaſed Friend <hi>Coſimo Rucellai,</hi> and the preſſing importunity of <hi>Guileo Silviati,</hi> that I would uſe ſome means to wipe off the many Aſperſions caſt upon my Writings, gives you the preſent trouble of reading this Letter, and me the pleaſure of writing it; which laſt would be infinitely greater, if I were not at this day too old, and too inconſiderable, and by the change of our Government wholly incapable of perform<g ref="char:EOLhyphen"/>ing, either with my Brain or my Hand, any fur<g ref="char:EOLhyphen"/>ther ſervice to my Country; for it hath ever been my opinion, that whoſoever goes about to make Men publickly aquainted with his Actions, or Apologize to the World for Imputations laid upon him, cannot be excuſed from vanity and impertinence, except his Parts and Opportuni<g ref="char:EOLhyphen"/>ties be ſuch, as may enable him to be inſtrumen<g ref="char:EOLhyphen"/>tal for the good of others, and that he cannot ar<g ref="char:EOLhyphen"/>chieve
+<pb n="2" facs="tcp:93558:6"/>that excellent end, without juſtifying himſelf from having any indirect and baſe ones, and procureing truſt from Men, by clearing the repute of his Juſtice and Integrity to them. But although this be far from my caſe; yet I have yeelded (you ſee) to the entreaty of <hi>Guilio</hi> and the reſt of that Company, not only becauſe I am ſufficiently (both by the reſtraint of our Preſs, and the diſcretion of the perſon I write to) aſſured that this Letter will never be made publick; but for that I eſteem it a duty to clear that excellent Society, from the Scandal of having ſo danger<g ref="char:EOLhyphen"/>ous and pernicious a Perſon to be a Member of their Converſation; for by reaſon of my Age, and ſince the loſs of our Liberty, and my Sufferings under that Monſter of Luſt and Cruelty <hi>Alexander de Medeci,</hi> ſet over us by the Divine vengeance for our ſins, I can be capable of no other Deſign or Enjoyment, than to delight and be delighted in the company of ſo many Choile and Virtuous Perſons, who now aſſemble themſelves with all ſecurity, under the Happy and Hopeful Reign of our new Prince, <hi>Coſimo;</hi> And we may ſay, that though our Common-wealth be not reſtored, our Slavery is at an end, and that he coming in by our own choice, may prove (if I have as good skill in propheſying as I have had formerly) Anceſtor to many renowned Princes, who will govern this State in great Quietneſs, and with great Glemen<g ref="char:EOLhyphen"/>cy; ſo that our Poſterity is like to enjoy caſe and
+<pb n="3" facs="tcp:93558:6"/>Security, though not that Greatneſs, Wealth, and Glory, by which our City hath for ſome years paſt (even in the moſt factious and tumultuous times of our Democracie) given Law to <hi>I<g ref="char:EOLhyphen"/>taly,</hi> and bridled the Ambition of Forreign Prin<g ref="char:EOLhyphen"/>ces. But, that I may avoid the Loquacity inci<g ref="char:EOLhyphen"/>dent to old Men, I will come to the buſineſs. If I remember well, the exceptions that are taken to theſe poor things I have publiſhed, are redu<g ref="char:EOLhyphen"/>cible to three;</p>
+            <p>Firſt, <hi>That in all my Writings, I inſmuate my great Affection to the Democrical Government, even ſo much as to undervalue that of Monarchy in reſpect of it, which laſt I do, not obſcurely in many paſſa<g ref="char:EOLhyphen"/>ges, Teach, and as it were, Perſwade the People to throw off.</hi>
+            </p>
+            <p>Next, <hi>That in ſome places I Vent very great Impie<g ref="char:EOLhyphen"/>ties, ſlighting and velifying the Church, as Author of all the miſgovernment in the World, and by ſuch contempt make way for Atheiſm and profaneneſs.</hi>
+            </p>
+            <p>And laſtly, <hi>That in my book of the Prince, I teach Monarchs all the execrable Villanies that can be invented, and inſtruct them how to break Faith, and to oppreſs and enſlave their Subjects.</hi>
+            </p>
+            <p>I ſhall anſwer ſomething to every one of theſe; and that I may obſerve a right Method, will be<g ref="char:EOLhyphen"/>gin with the firſt;</p>
+            <p>Having lived in an Age when our poor Coun<g ref="char:EOLhyphen"/>trey
+<pb n="4" facs="tcp:93558:7"/>and Government have ſuffered more than<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ges and revolutions, than ever did perhaps be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> any People in ſo ſhort a time, and having had till the taking of <hi>Flarence,</hi> my ſhare in the managing of Affairs, during almoſt all theſe Al<g ref="char:EOLhyphen"/>terations; ſometimes in the quality of Secretary of our City, and ſometimes employed in <hi>Em<g ref="char:EOLhyphen"/>haſſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s</hi> abroad; I ſet my ſelf to read the Hiſto<g ref="char:EOLhyphen"/>ry of Ancient and Modern times, that I might by that means find out whether there had not been in all Ages the like Viciſſitudes and Acci<g ref="char:EOLhyphen"/>dens in in State Affairs, and to ſearch out the cau<g ref="char:EOLhyphen"/>ſes of them, and having in ſome ſort ſatisfied my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therein, I could not abſtain from ſcribling ſomething of the two chief kinds of Govern<g ref="char:EOLhyphen"/>ment, <hi>Monarchy</hi> and <hi>Democracy,</hi> of which all o<g ref="char:EOLhyphen"/>ther forms are but mixtures, and ſince neither my <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>arts nor Learning could arrive to follow <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſteps of the <hi>Ancients,</hi> by writing according to Method and Art, as <hi>Plato, Ariſtotle,</hi> and ma<g ref="char:EOLhyphen"/>ny others have done upon this ſubject; I did <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my ſelf to make ſlight obſervations up<g ref="char:EOLhyphen"/>on both, by giving a bare character of a <hi>Prince</hi> as to the <hi>Monarchical</hi> frame, and as to the Popular chuſing the perfecteſt and moſt ſucceſsful of all Goverments of that kind upon Earth, and in my Diſcourſes upon it, following the order of my Author, without ever taking upon me to argin problematicallie, much leſs to dici<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> which of theſe two Governments is the beſt: i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:93558:7"/>from my way of handling matters in my diſ<g ref="char:EOLhyphen"/>courſes upon <hi>Livy,</hi> and from thoſe incomparable Virtues and great Actions we read of in that <hi>Hi<g ref="char:EOLhyphen"/>ſtory;</hi> and from the Obſervations I make, men will conclude (which is, I muſt confeſs my o<g ref="char:EOLhyphen"/>pinion) that the excellencie of thoſe Counſels and Atchievements, and the improvement which Mankind, and as I may ſo ſay, Humane Nature it ſelf obtained amongſt the <hi>Romans,</hi> did proceed naturally from their Government; and was but a plain eflect and conſequence of the perfection of their Common wealth: I ſay if Readers will thus judge, how can <hi>I</hi> in reaſon be accuſed for that? it would become thoſe who lay this blame upon me to undeceive them whom my Papers have miſ-led, and to ſhew the World to what other cauſes we may impute thoſe admirable effects, thoſe Heroick qualities and performances, that integrity and purity of manners, that ſcorning of riches and life it ſelf, when the publick was concerned: If they pleaſe to do this, they will oblidge my Readers, who will owe to ſuch the rectifying their Judgements, and not at all offend me, who have reaſoned this matter impartially and without paſſion; nor have poſitively affirmed any thing. But, what if this part of my accuſation had been true? Why ſhould I be condemned of Hereſie, or indiſcre<g ref="char:EOLhyphen"/>tion of preferring a <hi>Common wealth</hi> before a <hi>Mon<g ref="char:EOLhyphen"/>archy?</hi> Was I not Born, Bred, and imployed in
+<pb n="6" facs="tcp:93558:8" rendition="simple:additions"/>a City, which being at the time I write, under that form of Government, did owe all wealth and greatneſs, and all proſperity to it? If I had not very deſignedly avoided all dogmaticalneſs in my obſervations (being not willing to imi<g ref="char:EOLhyphen"/>tate young Scholars in their Declamations) I might eaſily have concluded from the premiſſes I lay down, that a <hi>Democracy</hi> founded upon good <hi>Orders</hi> is the beſt and moſt excellent <hi>Government,</hi> and this without the leaſt fear of confutation, for I firmly believe, that there are none but Flatto<g ref="char:EOLhyphen"/>rers and Sophiſters would oppoſe me, ſuch as will reſt <hi>Ariſtotle,</hi> and even <hi>Plato</hi> himſelf, to make them write for <hi>Monarchy,</hi> by miſapplying ſome looſe paſſages in thoſe great Authors. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> nay, will tell their Readers, that what is moſt like the Government of the World by GOD is the beſt, which wholly depends upon his abſolute Power; to make this compariſon, run with four feet, theſe Sycophants muſt give the poor Prince they intend to Deific, a better and ſuperiour Nature to Humanity, muſt Creat a neceſſary depen<g ref="char:EOLhyphen"/>dance of all Creatures upon him, muſt endue him with infinite wiſdom and goodneſs, and even with Omnipotency it ſelf. It will be hard for any man to be miſ-led in this Argument by proofs wreſted from <hi>Theology,</hi> ſince whoſoever reads attentively the Hiſtorical part of the <hi>Old Teſtament,</hi> ſhall find that GOD himſelf never made but one Government for Men, that this
+<pb n="7" facs="tcp:93558:8" rendition="simple:additions"/>Government was a <hi>Common wealth</hi> (where in the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nchadrim</hi> or <hi>Senate,</hi> and the Congregation or <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opular Aſſembly</hi> had their ſhare) and that he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hanifeſted his high diſpleaſure when the rebelli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us people would turn it into a <hi>Monarchy;</hi> but that I may not ſtricke upon the rock I profeſs to ſhun, I ſhall paſs to that which is fit indeed to be wip'd off, and which if it were true, would not only juſtly expoſe me to the hatred and ven<g ref="char:EOLhyphen"/>geance of GOD, and all good men, but even deſtroy the deſign and purpoſe of all my Writ<g ref="char:EOLhyphen"/>ings, which is to treat in ſome ſort (as well as one of my ſmall parts can hope to do) of the <hi>Politlcks.</hi> And how can any man pretend to wrire concerning <hi>Policy,</hi> who deſtroys the moſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſential part of it, which is obedience to all Go<g ref="char:EOLhyphen"/>vernments? It will be very eaſie then for <hi>Guilio Salviati,</hi> or any other Member of our Society, to believe the Proteſtation I make, that the ani<g ref="char:EOLhyphen"/>mating of private Men either directly or indi<g ref="char:EOLhyphen"/>rectly to diſobey, much leſs to ſhake off, any government how deſpotical ſoever, was never in my Thoughts or Writings; thoſe who are un<g ref="char:EOLhyphen"/>willing to give credit to this, may take the pains to aſſign in any of my Books, the paſſages they imagine to tend that way, (for I can think of none my ſelf (that ſo I may give ſuch perſons more particular ſatisfaction; I muſt confeſs I have a diſcourſe in one of my Books, to encou<g ref="char:EOLhyphen"/>rage the <hi>Italian</hi> Nation, to aſſume their ancient
+<pb n="8" facs="tcp:93558:9"/>valour, and to expel the <hi>Barbarians,</hi> meaning (as the ancient <hi>Romans</hi> uſed the word) a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Strangers from amongſt us; but that was before the <hi>Kings of Spain</hi> had quiet poſſeſſion of the Kingdom of <hi>Naples,</hi> or the <hi>Emperour</hi> of the <hi>Dutchy</hi> of <hi>Milan;</hi> ſo that I could not be interpre<g ref="char:EOLhyphen"/>ted to mean that the people of thoſe two Domi<g ref="char:EOLhyphen"/>nious ſhould be ſtir'd up to ſhake off their Prim<g ref="char:EOLhyphen"/>ces, becauſe they were Forreigners, ſince at that time <hi>Lodovic Sforza</hi> was in poſſeſſion of the one, and K. <hi>Frederick</hi> reſtored to the other, both <hi>Natives</hi> of <hi>Italy;</hi> but my deſign was to exhort our Countrey-men not to ſuffer this <hi>Province</hi> to be the Scene of the Arms and Ambition of <hi>Charles</hi> the 8th. or K. <hi>Lewis</hi> his Succeſſor, who when they had a mind to renew the old Title of the Houſe of <hi>Anjou</hi> to the Kingdom of <hi>Naples,</hi> came with ſuch force into <hi>Italy,</hi> that not only our good were plundered, and our Lands waſted, but even the liberty of our Cities and Government endangered, but to unite and oppoſe them, and to keep this <hi>Province</hi> in the hands of <hi>Princes</hi> of our own Nation, this my intention is ſo viſible if the Chapter it ſelf, that I need but refer you to it. Yet that I may not anſwer this imputation bare<g ref="char:EOLhyphen"/>ly by denying, I ſhall aſſert in this place what my principles are in that which the World calls <hi>Rebellion,</hi> which I believe to be not only riſing in Arms againſt any government we live under but to acknowledge that word to extend to al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:93558:9"/>
+               <hi>claindeſtine Conſpiracies</hi> too, by which the peace and quiet of any Countrey may be interrupted, and by conſequence the Lives and Eſtates of in<g ref="char:EOLhyphen"/>nocent Perſons endangered. <hi>Rebellion</hi> then ſo deſcribed, I hold to be the greateſt crime that can be committed amongſt men, both againſt Policy, Morality, and <hi>in foro Conſeientiae;</hi> but notwithſtanding all this, it is an offence which will be committed whilſt the World laſts, as of<g ref="char:EOLhyphen"/>ten as Princes tyrannize, and by enſlaving and oppreſſing their Subjects, make Magiſtracy, which was intended for the benefit of Mankind, prove a Plague and Deſtruction to it; for let the terrour and the guilt be never ſo great, it is impoſſible that Humane Nature, which con<g ref="char:EOLhyphen"/>ſiſts of Paſſion as well as Virtue can ſupport with patience and ſubmiſſion the greateſt cruelty and in juſtice, when ever either the weakneſs of their Princes, the unamity of the People, or any o<g ref="char:EOLhyphen"/>ther favourable accident, ſhall give them rea<g ref="char:EOLhyphen"/>ſonable hopes to mend their condition, and pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide better for their own intereſt by inſurrection. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that Princes and States ought in the Conduct of their Affairs, not only to conſider what their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cople are bound to ſubmit to; if they were in<g ref="char:EOLhyphen"/>pired from Heaven, or were all Moral Philo<g ref="char:EOLhyphen"/>ophers; but to weigh likewiſe what is probable <hi>de facto</hi> to fall out, in this corrupt age of the World, and to reflect upon thoſe dangerous Tumults, which have happened frequently not
+<pb n="10" facs="tcp:93558:10"/>only upon oppreſſion, but even by reaſon of Malver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation, and how ſome <hi>Monarchies</hi> have been wholly ſubverted and changed into <hi>Demo<g ref="char:EOLhyphen"/>cracies</hi> by the Tyranny of the Princes; as we ſee (to ſay nothing of <hi>Rome</hi>) the powerful <hi>Cantons</hi> of <hi>Switzerland</hi> brought by that means a little before the laſt age, to a conſiderable <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi> courted and ſought by all the <hi>Potents</hi> in <hi>Chriſtendom.</hi> If Princes will ſeriouſly conſider this, I make no queſtion but they will Rule with Clemency and Moderation, and return to that excellent Maxim of the Ancients (almo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> exploded in this Age) that the intereſt of <hi>Kings</hi> and of their People is the ſame, which truth <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath been the whole deſign of my Writings to convince them of.</p>
+            <p>I am charged then, in the ſecond place, with <hi>Impiety,</hi> and <hi>villifying the Church, and ſo to make way for Atheiſm.</hi> I do not deny but that I have fre<g ref="char:EOLhyphen"/>quently in my Writings laid the blame upon the Church of <hi>Rome,</hi> not only for all the miſgovern<g ref="char:EOLhyphen"/>ment of Chriſtendom; but even for the Depra<g ref="char:EOLhyphen"/>vation and almoſt total Deſtruction of <hi>Chriſtian Religion</hi> it ſelf in this Province; But that this Di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>courſe of mine doth, or can tend to teach Men impiety, or to make way for Atheiſm, I pe<g ref="char:EOLhyphen"/>remptorily deny: And although for proof of my innocence herein, I need not but refer you and all others to my Papers themſelves, as they are now publiſhed (where you will find all my
+<pb n="11" facs="tcp:93558:10"/>Reaſons drawn from Experience, and frequent (Examples cited, which is ever my way of Argu<g ref="char:EOLhyphen"/>ing) yet ſince I am put upon it, I ſhall in a few lines make that matter poſſibly a little clearer; and ſhall firſt make proteſtation, That as I do undoubtedly hope, by the Merits of CHRIST, and by Faith in Him, to attain Eternal Salva<g ref="char:EOLhyphen"/>tion; ſo I do firmly believe the Chriſtian Pro<g ref="char:EOLhyphen"/>feſſion to be the only true Religion now in the World: Next, I am fully perſwaded, that all Divine Verities, which GOD then deſigned to rach the World, are contained in the Books of holy Scripture, as they are now extant and received amongſt us. From them I underſtand that GOD created Man in purity and innocen<g ref="char:EOLhyphen"/>cie, and that the firſt of that Species, by their frailty, loſt at once their integrity and their Pa<g ref="char:EOLhyphen"/>radiſe, and intail'd ſin and miſery upon their Poſterity; that Almighty GOD to repair this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſs, did out of his infinite Mercy, and with un<g ref="char:EOLhyphen"/>parallel'd grace and goodneſs, ſend his only be<g ref="char:EOLhyphen"/>gotten Son into the World, to teach us new truths, to be a perfect example of virtue, good<g ref="char:EOLhyphen"/>neſs, and obedience, to reſtore true Religion, de<g ref="char:EOLhyphen"/>generated amongſt the <hi>Jews</hi> into Superſtition, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orinality, and Hypocriſie, to die for the Salva<g ref="char:EOLhyphen"/>tion of Mankind; and in fine, to give to us the holy Spirit, to regenerate our Hearts, ſupport our Faith, and lead us into all truth. Now if it ſhall appear that as the luſts of our firſt Parents
+<pb n="12" facs="tcp:93558:11"/>did at that time diſappoint the good intention of GOD, in making a pure World, and brought in by their diſobedience the corruptions that ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now in it. So that ſince likewiſe the Biſhops of <hi>Rome,</hi> by their inſatiable ambition and avarice have deſignedly, as much as in them lves, fruſtra<g ref="char:EOLhyphen"/>ted the Mercitul Purpoſe He had, in the happy Reſtauration He intended the World by H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Son, and in the renewing and reforming of H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mane Nature, and have wholly defaced, and ſpoiled Chriſtian Religion, and made it a World<g ref="char:EOLhyphen"/>ly and a Heatheniſh thing, and altogether <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>capable, as it is practiſed amongſt them, either of directing the wayes of its proſeſſors to viru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and good life, or of ſaving their Souls hereafter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I ſay, this do appear I know no reaſon why I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deteſting thus much, and for giving warning to the World to take heed of their wayes, ſhould be accuſed of Impiety or Atheiſm; or why <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Holineſs ſhould be ſo inraged againſt the p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Inhabitants of the Valleys in <hi>Savoy,</hi> and again<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Albigeſi</hi> for calling him Antichriſt: but to fi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that it is an undoubted truth, I mean that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Popes</hi> have corrupted Chriſtian Religion, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> need but read the <hi>New Teſtament</hi> (acknowledg<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by themſelves to be of infallible truth and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e we ſhall ſee, that the Faith and Religion pre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ched by Chriſt, and ſetled afterwards by his Apoſtles, and cultivated by their Sacred Epiſtle<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is ſo different a thing from the Chriſtianity th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="13" facs="tcp:93558:11"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now profeſs'd and taught at <hi>Rome,</hi> that we ſhould be convinc'd, that if thoſe. Holy Men ſhould be ſent by GOD again into the World, they would take more pains to confute this <hi>Gal<g ref="char:EOLhyphen"/>limaufry,</hi> than ever they did to preach down the Tradition of the <hi>Phariſees,</hi> or the Fables and Idolatry of the <hi>Gentiles;</hi> and would in probabi<g ref="char:EOLhyphen"/>lity ſuffer a new Marryrdom in that City under the Vicar of CHRIST, for the ſame Doctrine which once animated the Heathen Tyrants a<g ref="char:EOLhyphen"/>gainſt them. Nay, we have ſomething more to ſay againſt theſe Sacrilegious pretenders to GODS power; for whereas all other falſe wor<g ref="char:EOLhyphen"/>ſhips have been ſet up by ſome politick Legiſla<g ref="char:EOLhyphen"/>tors, for the ſupport and preſervation of Go<g ref="char:EOLhyphen"/>vernment, this falſe, this ſpurious Religion brought in upon the ruines of Chriſtianity by the <hi>Popes,</hi> hath deformed the face of Govern<g ref="char:EOLhyphen"/>ment in <hi>Europe;</hi> deſtroying all the good prin<g ref="char:EOLhyphen"/>ciples, and Morality left us by the Heathen them<g ref="char:EOLhyphen"/>ſelves; and introduced in ſtead thereof, Sordid, Cowardly, and impolitick Notions, whereby they have ſubjected Mankind, and even great <hi>Princes</hi> and <hi>States,</hi> to their own <hi>Empire,</hi> and never ſuffered any Orders or Maxims to take place where they have power that might make a Nation Wiſe, Honeſt, Great or Wealthy: This I have ſet down ſo plainly in thoſe paſſages of my Book which are complained of, that I ſhall ſay nothing at all for the proof of it in this place, but refer you thither, and come to ſpeak
+<pb n="14" facs="tcp:93558:12"/>a litle more particularly of my firſt aſſert<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that the <hi>Pope</hi> and his <hi>Clergy</hi> have deprvied Chri<g ref="char:EOLhyphen"/>ſtian Religion. Upon this ſubject I could in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nitely wiſh, now Letters begin to revive agai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that ſome Learned Pen would employ it ſel<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and that ſome perſon verſ'd in the Chronolig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Church (as they call it) would deduce o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Eccleſiaſtical Writers, the time and ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ner how theſe abuſes crept in; and by what A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Steps this <hi>Babel</hi> that reaches at Heaven, w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> built by theſe Sons of the Earth; but this mat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as unſuitable to the brevity of a Letter, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deed more to my ſmall Parts and Learning, ſhall not pretend to, being one who never hithe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſtudied or write of Theology, further than <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> did naturally concern the <hi>Politicks;</hi> therefore ſhall only deal by the New Teſtament as I hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done formerly by <hi>Titus Livius,</hi> that is, mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> obſervations or reflections upon it, and leav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you and Mr. <hi>Guilio,</hi> and the reſt of our Society to make the judgement, nor citing like Preach<g ref="char:EOLhyphen"/>ers, the Chapter or Verſe; becauſe the reading of Holy Scripture is little uſ'd, and indeed hard<g ref="char:EOLhyphen"/>ly permitted amongſt us. To begin at the top I would have any reaſonable man tell me whence this unmeaſureable power, long claim'd. and now poſſeſſ'd by the <hi>Biſhop of Rome,</hi> is deriv<g ref="char:EOLhyphen"/>ed, firſt of being CHRISTS Vicar, and by that (as I may ſo ſay) pretending to a Monopo<g ref="char:EOLhyphen"/>ly of the Holy Spirit (which was promiſed and
+<pb n="15" facs="tcp:93558:12"/>given to the whole Church, that is, to the Elect, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Saints) as is plain by a clauſe in St. <hi>Peters</hi> Ser<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on, made the very ſame time that the mira<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulous gifts of the Spirit of GOD were firſt given <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Apoſtles, who ſays to the <hi>Jews</hi> and <hi>Gen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iles, Repent and be Baptized every one of you in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame of</hi> Jeſus Chriſt <hi>for the remiſſion of ſins, and ye <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall receive the gift of the Holy Ghoſt, for this promiſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to you and to your Children, and to all that are afar <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff, even as many as the LORD our GOD ſhall call.</hi> Next, to judge infallibly of Divine Truth, and to forgive ſins as CHRIST did. Then to be the Head of all Eccleſiaſtical Perſons and Cauſes in the World; to be ſo far above <hi>Kings</hi> and <hi>Princes,</hi> as to Judge, Depoſe, and Deprive them, and to have an abſolute Juriſdiction over all the affairs in Chriſtendom, <hi>in Ordine ad Spiritualia;</hi> yet all this the Canoniſts allow him, and he makes no ſcruple to aſſume, whilſt it is plain that in the whole <hi>New Ieſtament</hi> there is no deſcription made of ſuch an Officer to be at any time in the Church, except it be in the Prophecy of the <hi>A<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocalyps,</hi> or in one of St. <hi>Paul's</hi> Epiſties, where he ſayes, <hi>Who it is that ſhall ſit in the Temple of GOD. ſhewing himſelf that he is GOD.</hi> CHRIST tells us, <hi>his Kingdom is not of this World;</hi> And, <hi>if any will be the greateſt amongſt his Diſciples, that be muſt be ſer<g ref="char:EOLhyphen"/>want to the reſt;</hi> which ſhews that his Followers were to be great in Sanctity and Humility, and not in worldly power.</p>
+            <pb n="16" facs="tcp:93558:13"/>
+            <p>The Apoſtle <hi>Paul</hi> writing to the Chriſtians <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe times, almoſt in every Epiſtle comman<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them <hi>to be obedient to the Higher Powers, or Mag<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtrates ſet over them;</hi> and St. <hi>Peter</hi> himſelf (from whom this extravagant Empire is pretended t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be derived) in his firſt Epiſtle, bids us <hi>ſubmit o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſelves to every ordinance of man for the LORDS ſake whether it be to the King, or, &amp;c</hi> and this is en<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> joyn'd although it is plain, that they who go<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vern'd the World in thoſe days, were bot<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Heathens, Tyrants, and Uſurpers, and in th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſubmiſſion there is no exception or <hi>proviſo</hi> for Ec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cleſiaſtical immunity. The practice as wel as pre<g ref="char:EOLhyphen"/>cepts of thoſe Holy Men ſhews plainly that the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had no intention to leave Succeſſors, who ſhould deprive Hereditary Princes from their right o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reigning for differing in Religion, who without all doubt are by the appointment of the Apoſtl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and by the principles of Chriſtianity, to be obey<g ref="char:EOLhyphen"/>ed and ſubmitted to (in things wherein the fun<g ref="char:EOLhyphen"/>damental Laws of the Government give them power) though they were <hi>Jews</hi> or <hi>Gentiles.</hi> If I ſhould tell you by what Texts in Scripture the <hi>Popes</hi> claim the powers before mentioned, it would ſtir you up to laughter, and prove too light for ſo ſerious a matter; yet becauſe poſſibly you have never heard ſo much of this ſubject before, I ſhall inſtance in a few: They tell you therefore that the Juriſdiction they pretend over the Church, and the power of pardoning ſins,
+<pb n="17" facs="tcp:93558:13"/>comes from CHRIST to St. <hi>Peter,</hi> and, from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im to them. <hi>Thou art Peter, and upon this Rock <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will build my Church, I will give thee the Keyes of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Kingdom of Heaven; whatſoever thou ſhalt bind on Earth ſhall be bound in Heaven, and whatſoever thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>halt looſe on Earth, &amp;c.</hi> From theſe two Texts ridiculouſly applyed, comes this great Tree which hath with its branches over ſpread the whole Earth, and kill'd all the good and wholſome Plants growing upon it; The firſt Text will never by any man of ſenſe be under<g ref="char:EOLhyphen"/>ſtood to ſay more, than that the Preaching, Suf<g ref="char:EOLhyphen"/>fering, and Miniſtry of <hi>Peter,</hi> was like to be a great foundation and Pillar of the Doctrine of Chriſt; the other Text (as alſo another ſpoken by our Saviour, to all his Apoſtles, <hi>whoſe ſins ye remit they are remitted, and whoſe ſins ye retain they are retained</hi>) are all by the primitive Fathers in<g ref="char:EOLhyphen"/>terpreted in this manner, whereſover you ſhall effectually preach the Goſpel, you ſhal carry with you Grace, and Remiſſion of ſins to them which ſhall follow your inſtructions; but the people who ſhal not have theſe joyful Tidings com<g ref="char:EOLhyphen"/>municated by you to them, ſhall remain in darkneſs, and in their ſins. But if any will con<g ref="char:EOLhyphen"/>teſt, that by ſome of theſe laſt Texts, that Evan<g ref="char:EOLhyphen"/>gelical Excommunication, which was after<g ref="char:EOLhyphen"/>wards brought into the Church by the Apoſtles, was here preſignified by our great Maſter, how
+<pb n="18" facs="tcp:93558:14"/>unlike were thoſe cenſures to thoſe now thunder<g ref="char:EOLhyphen"/>ed out (as he calls it) by the <hi>Pope?</hi> theſe we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for edification, and not deſtruction, to affli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the fleſh for the ſalvation of the Soul, that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Apoſtolical Ordinance was pronounced for ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> notorious scandal or Apoſtacy from the Faith and firſt decreed by the Church; that is, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole Congregation preſent, and then denoun<g ref="char:EOLhyphen"/>ced by the Paſtor, and reached only to deba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch perſons from partaking of the Communi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on or fellowſhip of that Church, till Repen<g ref="char:EOLhyphen"/>tance ſhould readmit him, but was followed by no other proſecution or chaſtiſement, as is now practiſed. But ſuppoſe all theſe Texts had been as they would have them, how does this make for the Succeſſors of St. <hi>Peter</hi> or the reſt? Or how can this prove the Biſhops of <hi>Rome</hi> to have right to ſuch Succeſſion? But I make haſte from this ſubject, and ſhal urge but one Text more; which is, <hi>the ſpiritual man judgeth all men, but is himſelf judged of none;</hi> from whence is inferred by the Canoniſts, that firſt, the Pope is the Spiritual man; and then that he is to be Judge of all the World; and laſt, that he is never to be lyable to any judgment himſelf; whereas it is obvious to the meaneſt underſtanding: St. <hi>Paul</hi> in t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is text means to diſtinguiſh between a perſon inſpired with the Spirit of God, and remaining one in the ſtate of Nature, which latter he ſayes cannot judge of thoſe Heavenly gifts and graces, as he
+<pb n="19" facs="tcp:93558:14"/>explains himſelf when he ſays, <hi>The natural man <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nnot diſcern the things of the Spirit, becauſe they are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oliſhneſs unto him.</hi> To take my leave of this matter wholly out of the way of my Studies, I ſhall beg of you <hi>Zen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bio</hi> and of <hi>Guilio,</hi> and the reſt of out Society to read over carefully the <hi>New Teſtament,</hi> and then to ſee what ground there is for <hi>Purgatory</hi> (by which all the wealth and greatneſs hath accrew'd to theſe men) what co<g ref="char:EOLhyphen"/>lour for the Idolatrous worſhip of Saints, and their Images, and particularly for ſpeaking in their hymes and prayers to a piece of wood (the Croſs I mean (<hi>Salve Lignum,</hi> &amp;c. and then <hi>fae nos dignos beneficiorum Chriſti,</hi> as you may read in that Office, what colour, or rather what excuſe for that horrid unchriſtian, and barbarous En<g ref="char:EOLhyphen"/>gine called the <hi>Inquiſition,</hi> brought in by the Command and Authority of the <hi>Pope,</hi> the in<g ref="char:EOLhyphen"/>ventor of which, <hi>Peter</hi> a Dominican Fryer hav<g ref="char:EOLhyphen"/>ing been ſlain amongſt the <hi>Albigeſi,</hi> as he well deſerved, is now Cannoniz'd for a Saint, and ſtil'd, <hi>San Pietro Martine:</hi> In the dreadful Pri<g ref="char:EOLhyphen"/>ſons of this Inquiſition, many faithful and pious Chriſtians (to ſay nothing of honeſt Moral <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ors</hi> or <hi>Mahometans</hi>) are tormented and ſa<g ref="char:EOLhyphen"/>miſh'd, or, if they out live their ſufferings burnt publickly to death, and that only for diff<g ref="char:EOLhyphen"/>ering in Religion from the <hi>Pope,</hi> without having any crime, or the leaſt miſdemeanor proved or alledged againſt them, and this is inflicted
+<pb n="20" facs="tcp:93558:15"/>upon theſe poor Creatures, by thoſe who proſe to believe the Scripture, which tells us, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>faith is the gift of God,</hi> without whoſe ſpecia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Illumination no man can obtain it; and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fore is not in reaſon or humanity to be puniſh for wanting it: And Chriſt himſelf hath ſo clea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly decided that point in bidding unlet the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the wheat grow together till the Harveſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that I ſhall never make any difficulty <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o call h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Antichriſt, who ſhall uſe the leaſt perſecuti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whatſoever againſt any differing in m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers faith from himſelf, whether the perſon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſenting, be <hi>Heretick, Jew, Gentile,</hi> or <hi>Mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bonnet</hi> Next I beſeech you to obſerve in reading th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Holy Book (though Chriſtian faſts are doubtl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Divine right) what ground there is for enjoy<g ref="char:EOLhyphen"/>ing fiſh to be eaten (at leaſt fleſh to be abſtain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from) for one third part of the year, by whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they put the poor to great hardſhip, whom having purſes to buy wholſome fiſh, are ſubject<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to all the miſeries and diſeaſes incident to a b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and unhealthful dyet, whilſt the rich, and chief<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves and their <hi>Cardinals,</hi> exceed <hi>Lucull</hi> in their Luxury, of <hi>Oyſters, Turbats, tinder Cral</hi> and <hi>Carpioni</hi> brought ſome hundreds of miles feed their gluttony, upon theſe penitential day of abſtinence from <hi>Beeff</hi> and <hi>Perk,</hi> It may be will lye in the way of thoſe who obſerve th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to enquire what St. <hi>Paul</hi> means when he ſay <hi>That in the latter dayes ſome ſhall depart from the fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:93558:15"/>forbidding to marry, and Commanding to abſtain from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eats which God hath ereated to be received with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>banksgiving;</hi> but all theſe things, and many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her abuſes brought in by theſe Perverters of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſtianity, will I hope <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re long be enquired to by ſome of the Diſciples of that bold Fryer, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho the very ſame year in which I profeſied <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at the ſcourge of the Church was not far off, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gan to thunder againſt their Indulgencies, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce hath queſtioned many tenets long received <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d impoſed upon the world. I ſhall conclude is diſcourſe after I have ſaid a word of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt Helliſh of all the innovations brought in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Popes,</hi> which is the Clergy; theſe are a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of men under pretence of miniſtring to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople in holy things, ſet a part and ſeparated <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the reſt of mankind (from whom they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve a very diſtinct, and a very oppoſite in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt) by a humane Ceremony called by a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vine name; <hi>viz</hi> Ordination, theſe wherever <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey are found (with the whole body of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onks and Fryers, who are called the regula<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ergy) make a Band which may be called th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nizaries of the Papaey;</hi> theſe have been the cauſer all the Soloeciſms and immoralities in Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment, and of all the impieties and abomina<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns in Religion, and by conſequence of all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>order, villany, and corruption we ſuffe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der in this deteſtable Age; theſe men by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhop of <hi>Rome's</hi> help have crept into all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="22" facs="tcp:93558:16"/>Governments in <hi>Chriſtendom,</hi> where there is an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mixture of <hi>Monarchy,</hi> and made themſelves a third eſtate: that is, by their temporalities (which are almoſt a third part of all the Lands in <hi>Europ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> given them by the blind zeal, or rather folly o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Northren</hi> people, who over ran this part o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the world) ſtept into the throne, and wha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they cannot perform by theſe ſecular helps, and by the dependancy their vaſſals have upon them, they fail not to claim and to uſurp, and by the power they pretend to have from God and his Vicegerent at <hi>Rome.</hi> They exempt themſelves, their Lands and Goods, from all ſecular juriſ<g ref="char:EOLhyphen"/>diction; that is, from all Courts of Juſtice and Magiſtracy, and will be Judges in their own Cauſes, as in matters of tithe, <hi>&amp;c.</hi> and not con<g ref="char:EOLhyphen"/>tent with this, will appoint Courts of their own to decide Soveraignty in teſtamentary matters, and many other cauſes; and take upon them to be the ſole puniſhers of many great Crimes, as Witchcraft, Sorcery, Adultery, and all unclean<g ref="char:EOLhyphen"/>neſs; to ſay nothing of the forementioned judi<g ref="char:EOLhyphen"/>catory of the inquiſition: in theſe laſt caſes they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urn the offenders over to be puniſh'd (when <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey have given Sentence) by the ſecular arm, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they call the Magiſtrate, who is blindly to ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cute their decrees under pain of Hell fire; as if Chriſtian Princes and Governours were appoint<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d only by God to be their Bravo's or Hang<g ref="char:EOLhyphen"/>men. They give protection and Sanctuary, to all
+<pb n="23" facs="tcp:93558:16"/>execrable offenders, even to Murderers them<g ref="char:EOLhyphen"/>ſelves, (whom God commanded to be indiſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enſably puni<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'d with death) it they come with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> their Churches, Cloyſters, or any other place, which they will pleaſe to call holy ground; and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the ordinary juſtice, nay, the Soveraign power, do proceed againſt ſuch offenders, they thunder out their Excommunication; that is, cut off from the body of Chriſt, not the Prince only, but the whole Nation and People, ſhutting the Church doors, and commanding divine of<g ref="char:EOLhyphen"/>fices to ceaſe, and ſometimes even authorizing the people to riſe up in Arms, and conſtrain their Governours to a ſubmiſſion, as happened to this poor City in the time of our Anceſtors, when for but forbidding the ſervant of a poor Carmelite Fryer who had vowed poverty, and ſhould have kept none) to go arm'd, and puniſh<g ref="char:EOLhyphen"/>ing his diſobedience, with impriſonment, our whole Senate with their <hi>Confalonier</hi> were con<g ref="char:EOLhyphen"/>ſtrained to go to <hi>Avignon</hi> for abſolution, and in caſe of refuſal, had been maſſacred by the people. It would almoſt aſtoniſh a wiſe man to imagine how theſe folks ſhould acquire an Em<g ref="char:EOLhyphen"/>pire ſo deſtructive to Chriſtian Religion, and ſo pernicious to the intereſts of men, but it will not ſeem ſo miraculous to them who ſhall ſeriouſly conſider, that the Clergy hath been for more than theſe thouſand years upon the catch, and a form'd united Corporation againſt the parity of
+<pb n="24" facs="tcp:93558:17"/>Religion, and the intereſt of Mankind, and has not only wreſted the Holy Scripture to their on advantage (which they have kept from the La<g ref="char:EOLhyphen"/>ty in unknown languages, and by prohibitin the reading thereof) but made uſe likewiſe firſt of the blind devotion and ignorance of the <hi>Goths, Vandals, Huns,</hi> &amp;c. and ſince of the am bition and avarice of Chriſtian Princes, ſtirting them up one againſt another, and ſending them upon fooliſh errands to the Holy Land, to loſt their lives, and to leave their Dominions, it the mean time, expoſed to themſelves and their Complices, They have beſides kept Leatning and Knowledge among themſelves, ſtiffling the light of the Goſpel, crying down Moral vertue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as ſplendid ſins, defacing humane policy, de<g ref="char:EOLhyphen"/>ſtroying the purity of the Chriſtian faith and profeſſion, and all that was virtuous, prudent, regular and orderly upon eatth, ſo that whoever would do good, and good men ſervice, get him<g ref="char:EOLhyphen"/>ſelf immortal honour in this life, and eternal glory in the next, would reſtore the good po<g ref="char:EOLhyphen"/>licy (I had almoſt ſaid with my Author <hi>Livy</hi> the ſanctity too) of the <hi>Heathens,</hi> with all their va<g ref="char:EOLhyphen"/>lour, and other glorious endowments; I ſay, whoever would do this, muſt make himſelf powerful enough to extirpate this curſed and apoſtate race out of the world, and that you may ſee this is lawful as well as neceſſary, I ſhall ſay but one word of their calling and original,<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:93558:17"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd then leave this ſubject. The word <hi>Clergy,</hi> is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> term wholly unknown to the Scriptures, otherwiſe then in this ſenſe; a particular People or GOD'S lot uſed often for the whole <hi>Jewiſh</hi> Nation, who are like<g ref="char:EOLhyphen"/>wiſe called a Kingdom of Prieſts in ſome places. In the New Teſtament the word <hi>Cleros</hi> is taken for the true Believers, who are alſo called the Elect, and often the Church, which is the Aſſembly of the Faithful met together, as is eaſily ſeen by reading the beginning of moſt of St <hi>Paul</hi>'s Epiſtles, where writing to the Church, or Churches he uſually explains himſelf, <hi>To all the Saints in Chriſt:</hi> ſometimes, <hi>To all who have ob<g ref="char:EOLhyphen"/>tained ſome faith with us;</hi> ſometimes, <hi>To all who in all places call upon the Name of the Lord Jeſus,</hi> &amp;c. by which it appears, that neither the word <hi>Church</hi> nor <hi>Clergy</hi> was in thoſe days ever appro<g ref="char:EOLhyphen"/>priated to the <hi>Paſtors or Elders</hi> of the flock; but did ſignify indifferently all the people aſſembled to<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ther; which is likewiſe the literal conſtructi<g ref="char:EOLhyphen"/>on of the word <hi>Eccleſia,</hi> which is an aſſembly or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eeting; in theſe Congregations or Churches was performed their Ordination, which proper<g ref="char:EOLhyphen"/>ly ſignifies no more than a decree of ſuch Aſ<g ref="char:EOLhyphen"/>ſembly; but is particularly uſed for an Election of any into the Miniſtry. The manner was this, ſometimes the Apoſtles themſelves in their Perigrinations, and ſometimes any other emi<g ref="char:EOLhyphen"/>nent Member of the Church, did propoſe to the Society (upon vacancy, or other neceſſity of a
+<pb n="26" facs="tcp:93558:18"/>Paſtor, Elder, or Deacon) ſome good Holy man to be Elected, which perſon if he had parts or gifts, ſuch as the Church could edify by was choſen by the lifting up of hands, that is by ſuffrage, and oftentimes hands were laid upon him, and Prayer made for him. Theſe men ſo ſet apart did not pretend to any conſecration, or ſa<g ref="char:EOLhyphen"/>credneſs more than they had before, much leſs to become a diſtinct thing from the reſt of <hi>mankind</hi> as if they had been metamorphos'd, but did attend to perform the ſeveral Functions of their calling, as prophecying; that is, Preaching the Goſpel, viſiting the Sick, <hi>&amp;c.</hi> and never inter<g ref="char:EOLhyphen"/>mitted the ordinary buſineſs of their Trade or Profeſſion, unleſs their Church or Congregation was very numerous, in which caſe they were maintained by alms or contribution, which was laid aſide by every member, and collected the firſt day of the week by the Deacons, this was ſaid to be given to the Church, and was imploy<g ref="char:EOLhyphen"/>ed by ſuffrage of the whole Collective Body to the poor, and to other incidencies, ſo far was it from Sacriledge in thoſe days to employ Church goods to Lay uſes. From theſe words, <hi>Church, Clergy, Ordination, Paſtor,</hi> (which laſt hath been tranſlated of late years <hi>Biſhop</hi>) you ſee what concluſions theſe men have deduced, and how immenſe a ſtructure they have raiſed, upon ſo little a foundation, and how eaſily it will fall to the ground, when God ſhall inſpire Chriſti<g ref="char:EOLhyphen"/>an Princes and States to redeem his truths, and
+<pb n="27" facs="tcp:93558:18"/>his poor enſlaved Members out of their Chur<g ref="char:EOLhyphen"/>ches, and to bring back again into the world, the true original Chriſtian faith, with the Apo<g ref="char:EOLhyphen"/>ſtolical Churches, Paſtors, and Ordination, ſo conſiſtent with moral virtue and integrity, ſo helpful and concucing to the beſt and moſt pru<g ref="char:EOLhyphen"/>dent policy, ſo fitted for obedience to Magiſtra<g ref="char:EOLhyphen"/>ty and Government, all which the world hath for many years been deprived of, by the exe<g ref="char:EOLhyphen"/>crable and innate ill quality, which is inſepa<g ref="char:EOLhyphen"/>table from prieſt-craft, and the conjuration or ſpell of their new invented ordination; by which they cry with the Poet,
+<q>
+                  <l>Jam furor humanum noſtro de pectore ſenſum</l>
+                  <l>Fxpulit &amp; totum ſpirant prae cordia Phaebum.</l>
+               </q>which makes them ſo Sacred, and Holy, that they have nothing of integrity, or indeed of hu<g ref="char:EOLhyphen"/>manity left in them. I hope I ſhall not be thought impious any longer, upon this point, I mean for vindicating Chriſtian Religion from the aſſaults of theſe men, who having the con<g ref="char:EOLhyphen"/>ſidence to believe, or at leaſt profeſs themſelves the only inſtruments which God hath choſen or can chooſe to teach and reform the world (though they have neither Moral virtues, nor natural parts equal to other men for the moſt part) have by this pretence prevail'd ſo far upon the common ſort of people, and upon ſome too of a better quality, that they are perſwaded their ſalvation or eternal damnation depends <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believing or not believing of what they
+<pb n="28" facs="tcp:93558:19"/>ſay. I would not be underſtood, to diſſwade any from honouring the true Apoſtolical Teachers, when they ſhall be re eſtabliſhed amongſt us. or from allowing them (even of right, and not of alms or courteſie) ſuch emoluments as may enable them cheerfully to perform the duties of their charge, to provide for their Children, and even to uſe hoſpitality as they are commanded by St: <hi>Paul.</hi> But this I will prophecy before I conclude; that if Princes ſhall perform this but ſineſs by halves, and leave any root of this Cler<g ref="char:EOLhyphen"/>gy or Prieſtcraft, as it now is, in the ground or if that famous Reformer, fled ſome year ſince out of <hi>Picardy</hi> to <hi>Geneva,</hi> who is of to great renown for learning and parts, and who pro<g ref="char:EOLhyphen"/>miſes us ſo perfect a Reformation, ſhall not it this model wholly extirpate this ſort of men then I ſay I muſt foretel, that as well the Magi<g ref="char:EOLhyphen"/>ſtrate as this Workman, will find themſelves de<g ref="char:EOLhyphen"/>ceived in their expectation, and that the leaſt <hi>fibra</hi> of this plant will over run again the whole Vineyard of the Lord, and turn to a diffuſive Papacy in every Dioceſs, perhaps in every Pa<g ref="char:EOLhyphen"/>riſh: So that God in his mercy inſpire them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cut out the core of the Ulcer, and the bag of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> impoſture, that it may never rankle or feſte any more, nor break out hereafter, to diffuſive new corruption and putrifaction through the body of Chriſt, which is his Holy Church, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to vitiate and infect the good order and true <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> licy of Government.</p>
+            <pb n="29" facs="tcp:93558:19"/>
+            <p>I come now to the laſt branch of my charge, which is, <hi>That I teach Princes villany, and how to <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ive and oppreſs their Subjects,</hi> In which accuſati<g ref="char:EOLhyphen"/>on I am dealt with as poor <hi>Agnolo Canini</hi> was, who as they report, being a very learned practiſer of the Laws, and leſt the only man of this profeſſi<g ref="char:EOLhyphen"/>on (one Autumn) in our City, the reſt of the Advocates being fled into the countrey for fear of a contagious Diſeaſe which then reigned, was commanded by our Judges to aſſiſt with his counſel both parties, and to draw Pleas as well for the Defendant as the Plantiff, elſe the Courts of Juſtice muſt have been ſhut up. In the ſame manner my accuſers handle me, and make me firſt exhort and teach Subjects to throw off their Princes, and then to inſtruct Monarchs how to on ſlave and oppreſs them; but I did not expect ſuch ingratitude from mine own Citizens, or to be ſerved as <hi>Moſes</hi> was, when he was upbraided for killing the <hi>Fgyptian,</hi> by one of his own peo<g ref="char:EOLhyphen"/>ple for whoſe ſake he had done it, whereas he believed they would have underſtood by that action, that he was the perſon whom God in<g ref="char:EOLhyphen"/>tended to make uſe in delivering them from the horrid ſlavery they were then under. If any man will read over my Book of the Prince with impartiality and ordinary charity, he will eaſi<g ref="char:EOLhyphen"/>ly perceive, that it is not my intention therein to recommend that Government, or thoſe men there diſcribed, to the world; much leſs to
+<pb n="30" facs="tcp:93558:20"/>teach them to trample upon good men, and a that is Sacred and Venerable upon earth, Law Religion, Honeſty, and what not; if I have been a little too punctual in deſigning theſe Monſters, and drawn them to the life in all their lineaments and colours, I hope manking will know them the better to avoid them, m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Treatiſe being both a Satyr againſt them, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true Character of them: I ſpeak nothing o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great and honourable Princes, as the Kings o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>England, France,</hi> and others; who have th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es and Orders of their Kingdoms with ex<g ref="char:EOLhyphen"/>cellent Laws, and Conſtitution, to found and maintain their Government; and who reig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> over the hearts as well as the perſons of their ſubjects; I treat only of thoſe vermin bred out of the corruption of our own ſmall Common wealths and Cities, or engender'd by the ill blaſt that come from <hi>Rome, Olivaretto da Fermo, Borgi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> the <hi>Baglioni,</hi> the <hi>Bentivoglio,</hi> and a hundred others who having had neither right nor honourable means to bring them to their power, uſe is with more violence, rapin, and cruelty upon the poor people, than thoſe other renowned Princes ſhew to the Boars, the Wolves, the Foxes, and other ſavage beaſts which are the objects of their chaſe and hunting: whoſoever in his Empire over men is ty'd to no other rules than thoſe of his own will and luſt, muſt either be a Saint to moderate his paſſions, or elſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="31" facs="tcp:93558:20"/>very Devil incarnate; or if he be neither of theſe, both his life and reign are alike to be very ſhort; for whoſoever takes upon him ſo exe<g ref="char:EOLhyphen"/>crable an employment as to rule men againſt the Laws of nature and of reaſon, muſt turn all topſie turvy, and never ſtick at any thing, for if once he halt, he will falſ and never riſe a<g ref="char:EOLhyphen"/>gain: I hope after this I need ſay little to juſti<g ref="char:EOLhyphen"/>fie my ſelf from the calumny of adviſing theſe Monſters to break their faith, ſince to keep it is to loſe their Empire, faithfulneſs and ſince<g ref="char:EOLhyphen"/>rity being their mortal enemies, and <hi>
+                  <g ref="char:V">Ʋ</g>guccione della Fagivola</hi> to one who upbraided him, that he never employed honeſt men; anſwered, <hi>Ho<g ref="char:EOLhyphen"/>neſt men will cut my throat, let the King uſe honeſt men,</hi> meaning the King of <hi>Naples,</hi> who was eſtabliſh<g ref="char:EOLhyphen"/>ed in his Throne, and had right to it. But that I may have occaſion to juſtifie my ſelf a<g ref="char:EOLhyphen"/>gainſt a little more then I am accuſed of, I will confeſs, that in a work where I deſired to be a little more ſerious, than I was in this Book of the Prince, I did affirm, that in what way ſo<g ref="char:EOLhyphen"/>ever men defended their Country, whether by breaking or keeping their faith, it was ever well defended, not meaning in a ſtrick moral ſenſe, or point of honour, but explaing my ſelf that <hi>defacta</hi> the infamy of the breach of word, would quickly be forgotten and pardoned by the world; which is very true. Nay, what if I had ſaid that good ſucceſs in any interprizes (a far
+<pb n="32" facs="tcp:93558:21"/>leſs conſideration than piety to our Country) would have cancell'd the bleam of ſuch perfidy as <hi>Caeſar</hi> (whom I compare to <hi>Cataline</hi>) us'd to<g ref="char:EOLhyphen"/>wards his fellow Citiz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, not only not deteſted by poſterity, but even crown'd with renown and immortal fame; inſomuch as Princes to this day) as I have obſerved elſewhere) think it an honour to be compared to him, and the higheſt pitch of veneration their flatters can arrive at is to call them by the name of one who violated his faith, and enſlav'd his Country. I hope that in ſhewing as well theſe Tyrants as the poor people who are forced to live under them, their danger, that is by laying before the former, the heliſh and precipitous courſes they muſt uſe to maintain their power, by repreſenting to the latter, what they muſt ſuffer, I may be inſtru<g ref="char:EOLhyphen"/>mental, firſt, to deter private Citizens from at<g ref="char:EOLhyphen"/>tempting upon the liberties of their Country, or if they have done it, to make them lay down their ill gotten Authority; and then to warn the reſt of the Nobility and people, from theſe facti<g ref="char:EOLhyphen"/>ons and malignancies in their ſeveral common<g ref="char:EOLhyphen"/>wealths and Governments, which might give hope and opportunity to thoſe who are ambiti<g ref="char:EOLhyphen"/>ous amongſt them, to aſpire to an Empire over them. However it prove, I hope I am no more to be blamed for my attempt, then that excel<g ref="char:EOLhyphen"/>lent Phyſician of our Nation is, who hath late<g ref="char:EOLhyphen"/>ly taken ſo much pains to compoſe an excellent
+<pb n="33" facs="tcp:93558:21"/>Treatiſe, of that foul Diſeaſe which was, not long ſince, brought from the new world into theſe parts; wherein though he be forced to uſe ſuch expreſſions as are almoſt able to nauſeate his Readers, and talk of ſuch Ulcers, Boyles, Nodes, Botches, Cankers, <hi>&amp;c.</hi> that are ſcarce fit to be repeated, eſpecially when he handles the cauſes of thoſe effects, yet he did not intend to teach or exhort men to get this Diſeaſe; much leſs did he bring this lamentable infirmity into the world, but diſcribes it faithfully as it is, to the end men may be detered, and avoid the being infected with it, and may diſcern and cure, whenever their incontinence and folly ſhall procure it them. I ſhall ſay no more in this matter; but to conclude all make a prote<g ref="char:EOLhyphen"/>ſtation, that as well in this Book, as in all my other Writing, my only ſcope and deſign is to promote the intereſt and welfare of manking, and the peace and quiet of the world, both which I am ſo vain as to believe, would be bet<g ref="char:EOLhyphen"/>ter obtained and provided for, if the principles I lay down were followed and obſerved by Princes and People, than they are like to be by thoſe Maxims which are in this Age moſt in vogue. For my ſelf I ſhall only ſay (and call you all to witneſs for the truth of it) that as by my Birth I am a Gentleman,<note place="margin">Chief Ma<g ref="char:EOLhyphen"/>giſtrate.</note> and of a Family which hath had many <hi>Con<g ref="char:EOLhyphen"/>ſaloniers</hi> of Juſtice in it; ſo I have been
+<pb n="34" facs="tcp:93558:22"/>uſed in many imployments of great truſt, both in our City and abroad; and at this hour am not in my Eſtate one penny the better for them all, not ſhould I have been, al<g ref="char:EOLhyphen"/>though I had never ſurfered any loſſes by the ſeizure of my Eſtate in the year 1531, for my carriage it hath ever been void of faction and contention, I never had any prejudice againſt the houſe of <hi>Midici,</hi> but honoured the perſon of all thoſe of that Family whom I knew, and the memory of ſuch of them as lived before me, whom I acknowledge to have been excellent Pa<g ref="char:EOLhyphen"/>triots and Pillars of our City and Common<g ref="char:EOLhyphen"/>wealth. During the turbulent times of <hi>Piero,</hi> and after his expulſion out of <hi>Florence,</hi> though my employments were bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miniſterial, my ad<g ref="char:EOLhyphen"/>vice was ask'd in many grave matters, which I ever delivered with impartiality and indiffe<g ref="char:EOLhyphen"/>rence, not eſpouſing the heady opinions of any, much leſs their paſſions and animoſities; I never ſided with any Party further than that the Du<g ref="char:EOLhyphen"/>ty of my charge oblieged me to ſerve the pre<g ref="char:EOLhyphen"/>vailing Party, when poſſeſſ'd of the Govern<g ref="char:EOLhyphen"/>ment of our City; this I ſpeak for thoſe changes that happened between the flight of the laid <hi>Pien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de Medici,</hi> and the horrid Parricide committed by <hi>Clement the 7th.</hi> upon his indulgent Mother, joyning with his greateſt enemies, and uniting himſelf with thoſe who had uſed the moſt tranſ<g ref="char:EOLhyphen"/>cendent inſolence to his own perſon, and the
+<pb n="35" facs="tcp:93558:22"/>higheſt violence and fury the Sun ever ſaw to his poor Courtiers and Subjects, and ſo accompain<g ref="char:EOLhyphen"/>ed he might ſheath his Sword in the bowels of his own deſolate Country. At that time, and during that whole Siege, I muſt confeſs I did break the confines of my Neutrality, and not only acted as I was commanded barely, but rouz'd my ſelf, and ſtir'd up others haranguing (in the Streets and places of the City) the Peo<g ref="char:EOLhyphen"/>ple to defend with the laſt drop of their Blood, the Walls of their Country, and the Liberty of their Government; taking very hazardous Journeys to <hi>Ferrucio,</hi> and then into the <hi>Mugello</hi> and other parts, to bring in Succours and Pro<g ref="char:EOLhyphen"/>viſions to our languiſhing City, and acting as a Souldier (which was a new profeſſion to me) at the age of above ſixty, when others are deſ<g ref="char:EOLhyphen"/>penſed from it. For all which, I had ſo entire a ſatisfaction in my mind and conſcience, that I am perſwaded this cordial made me able to ſup<g ref="char:EOLhyphen"/>port the ſufferings which befel me after our Ca<g ref="char:EOLhyphen"/>taſtrophe, and to rejoyce in them ſo far, that all the malice and cruelties of our enemies, could never draw one word from me unſutable to the honour I thought I merited, and in ſome ſort enjoy, for being inſtrumental to defend (as long as it was poſſible) our Altars and our Hearths. But all that I have undergone, hath been abun<g ref="char:EOLhyphen"/>dantly recompenced to me by the favour and courteſie) of the moſt excellent Signior <hi>Coſimo,</hi>
+               <pb n="36" facs="tcp:93558:23"/>who hath been pleaſed to offer me all the prefer ments the greateſt ambi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion could aſpire to which I did not refuſe out of any ſcruple to ſerve ſo incomparable a Prince, who ſee early years manifeſt ſo much courage, humanity, and prudence, and ſo fatherly a care of the publick good, but becauſe I was very deſireous not to accept of a charge which I was not able to per<g ref="char:EOLhyphen"/>form, my years and infirmities having not brought me to a condition in which I am fitte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to live in a Cloyſter then a Palace, and made me good for nothing but to talk of paſt times the common vice of old Age: So that I did n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> think it juſt or grateful to reward this exce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lent perſon ſo ill for his kindneſs, as to give him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſeleſs Servant, and to fill up the place of a fat better. This is all I think fit to ſay of this matter I chuſe to addreſs it to you <hi>Zenobio,</hi> for the con<g ref="char:EOLhyphen"/>ſtant friendſhip I have ever entertained with you &amp; formerly with your deceaſed Father, the com<g ref="char:EOLhyphen"/>panion of my Studies, and ornament of our City. And ſo I bid you farewell,</p>
+            <closer>
+               <date>
+                  <hi>The firſt of</hi> April, 1537.</date>
+            </closer>
+            <pb facs="tcp:93558:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
